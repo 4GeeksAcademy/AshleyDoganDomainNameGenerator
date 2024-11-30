@@ -3,9 +3,9 @@ import "bootstrap";
 import "./styles.css";
 window.onload = function() {
   // arrays with the words
-  let pronoun = ["the", "our", "his"];
-  let adj = ["great", "big", "amazing"];
-  let noun = ["jogger", "racoon", "dog", "merchant", "driver"];
+  let pronoun = ["the", "our", "four"];
+  let adj = ["cool", "fuzzy", "green"];
+  let noun = ["raisins", "noodles", "dogs", "goats"];
 
   // generating the domains
   for (let i = 0; i < pronoun.length; i++) {
